@@ -1,72 +1,149 @@
 [
-    {
-        "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
-    },
-    {
-        "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
-    },
-    {
-        "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
-    },
-    {
-        "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
-    }
+  {
+    "id": 1,
+    "anime": "Hand Maid May - Opening 1",
+    "name": "\"JUMP~Mayppai Dakishimete\" by P-chicks",
+    "video": "https://eudist.animemusicquiz.com/3ljtpo.webm",
+    "mp3": null
+  },
+  {
+    "id": 2,
+    "anime": "Strange Dawn - Opening 1",
+    "name": "\"Sora e\" by Eri Kawai",
+    "video": "https://eudist.animemusicquiz.com/qy7oni.webm",
+    "mp3": null
+  },
+  {
+    "id": 3,
+    "anime": "eX-Driver - Opening 1",
+    "name": "\"Kaze ni Nare\" by JAM Project Featuring Rica Matsumoto & Hironobu Kageyama",
+    "video": "https://eudist.animemusicquiz.com/41ezwu.webm",
+    "mp3": null
+  },
+  {
+    "id": 4,
+    "anime": "Tottoko Hamtarou - Opening 1",
+    "name": "\"Hamtarou Tottoko Uta\" by Ham-chans",
+    "video": "https://eudist.animemusicquiz.com/9desrs.webm",
+    "mp3": null
+  },
+  {
+    "id": 5,
+    "anime": "Tottoko Hamtarou - Opening 2",
+    "name": "\"Hamtarou Tottoko Uta Tsuzuki Dechu\" by Ham-chans",
+    "video": "https://eudist.animemusicquiz.com/vxquom.webm",
+    "mp3": null
+  },
+  {
+    "id": 6,
+    "anime": "Tottoko Hamtarou - Opening 3",
+    "name": "\"Hamtarou Tottoko Uta Mata Tsuzuki Dechu\" by Ham-chans",
+    "video": "https://eudist.animemusicquiz.com/77kp6o.webm",
+    "mp3": null
+  },
+  {
+    "id": 7,
+    "anime": "Tottoko Hamtarou - Opening 4",
+    "name": "\"Hamtarou Tottoko Uta\" by Chiaki with Ham-chans",
+    "video": "https://eudist.animemusicquiz.com/nbcejb.webm",
+    "mp3": null
+  },
+  {
+    "id": 8,
+    "anime": "Tottoko Hamtarou - Opening 5",
+    "name": "\"Hamtarou Tottoko Uta ~Norinori Dechu~\" by Chiaki with Ham-chans",
+    "video": "https://eudist.animemusicquiz.com/p8go3n.webm",
+    "mp3": null
+  },
+  {
+    "id": 9,
+    "anime": "Tottoko Hamtarou - Opening 6",
+    "name": "\"Hamtarou Tottoko Uta 2005\" by Ham-chans",
+    "video": "https://eudist.animemusicquiz.com/1osm7s.webm",
+    "mp3": null
+  },
+  {
+    "id": 10,
+    "anime": "Pocket Monsters: Kesshoutou no Teiou Entei - Opening 1",
+    "name": "\"OK! 2000\" by Rica Matsumoto",
+    "video": "https://eudist.animemusicquiz.com/mmgav5.webm",
+    "mp3": null
+  },
+  {
+    "id": 11,
+    "anime": "Brigadoon: Marin to Melan - Opening 1",
+    "name": "\"Kaze no Ao, Umi no Midori\" by Ikuko",
+    "video": "https://eudist.animemusicquiz.com/0aivcz.webm",
+    "mp3": null
+  },
+  {
+    "id": 12,
+    "anime": "Geobreeders 2: [File-XX] Ransen Toppa - Opening 1",
+    "name": "\"RISING SOUL\" by Sara Aoki",
+    "video": "https://eudist.animemusicquiz.com/fmbp5h.webm",
+    "mp3": null
+  },
+  {
+    "id": 13,
+    "anime": "Koutetsu Tenshi Kurumi Encore - Opening 1",
+    "name": "\"Kiss kara Hajimaru Miracle\" by STEEL ANGELS",
+    "video": "https://eudist.animemusicquiz.com/krmqc2.webm",
+    "mp3": null
+  },
+  {
+    "id": 14,
+    "anime": "Soreike! Anpanman: Ningyo Hime no Namida - Opening 1",
+    "name": "\"Anpanman no March\" by Dreaming",
+    "video": "https://eudist.animemusicquiz.com/rcg377.webm",
+    "mp3": null
+  },
+  {
+    "id": 15,
+    "anime": "Digimon Adventure 02: Digimon Hurricane Jouriku - Chouzetsu Shinka!! Ougon no Digimental - Opening 1",
+    "name": "\"Target ~Akai Shougeki~\" by Kouji Wada",
+    "video": "https://eudist.animemusicquiz.com/kjorj1.webm",
+    "mp3": null
+  },
+  {
+    "id": 16,
+    "anime": "Medarot Damashii - Opening 1",
+    "name": "\"SUPER GUYS!\" by Yuusuke Nakamura",
+    "video": "https://eudist.animemusicquiz.com/wsgssr.webm",
+    "mp3": null
+  },
+  {
+    "id": 17,
+    "anime": "Di Gi Charat Summer Special - Opening 1",
+    "name": "\"CUTIE\" by Masami Okui",
+    "video": "https://eudist.animemusicquiz.com/345vb2.webm",
+    "mp3": null
+  },
+  {
+    "id": 18,
+    "anime": "Ojamajo Doremi # - Opening 1",
+    "name": "\"Ojamajo wa Koko ni Iru\" by MAHO-dou",
+    "video": "https://eudist.animemusicquiz.com/5v3gmb.webm",
+    "mp3": null
+  },
+  {
+    "id": 19,
+    "anime": "Pichu to Pikachu - Opening 1",
+    "name": "\"Pichu Pika♪Swing!\" by Neo★Pockets",
+    "video": "https://eudist.animemusicquiz.com/0c8qak.webm",
+    "mp3": null
+  },
+  {
+    "id": 20,
+    "anime": "Kirara - Opening 1",
+    "name": "\"Power of Love\" by Chiaki Oosawa",
+    "video": "https://eudist.animemusicquiz.com/2lrdqj.webm",
+    "mp3": null
+  },
+  {
+    "id": 21,
+    "anime": "Soreike! Anpanman: Yakisobapanman to Black Sabotenman - Opening 1",
+    "name": "\"Hashire! S L Man\" by Dreaming",
+    "video": "https://eudist.animemusicquiz.com/cu0iwf.webm",
+    "mp3": null
+  }
 ]
